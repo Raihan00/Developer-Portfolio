@@ -28,9 +28,9 @@ section {
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    color: white;
-    font-weight: 700;
     padding: 10px 40px;
+    color: blue;
+    font-weight: 700;
     border-radius: 5px;
 }
 
@@ -42,5 +42,5 @@ section {
 .dream-big {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right ;
+    background-position: right;
 }
